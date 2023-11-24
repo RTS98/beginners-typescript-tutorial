@@ -13,9 +13,9 @@ interface User {
  */
 const defaultUser: User = {
   id: 1,
-  firstName: "Matt",
-  lastName: "Pocock",
-  isAdmin: true,
+  firstName: "Robert",
+  lastName: "Stoia",
+  isAdmin: true
 };
 
 const getUserId = (user: User) => {

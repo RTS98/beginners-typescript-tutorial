@@ -20,13 +20,13 @@ interface Post {
 const makeUser = (): User => {
   return {
     id: 1,
-    firstName: "Matt",
-    lastName: "Pocock",
-    role: "admin",
+    firstName: "Robert",
+    lastName: "Stoia",
+    role: "super-admin",
     posts: [
       {
         id: 1,
-        title: "How I eat so much cheese",
+        title: "First Post",
       },
     ],
   };
