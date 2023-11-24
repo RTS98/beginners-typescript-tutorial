@@ -23,3 +23,5 @@ it("Should work with the first and last name", () => {
 
   expect(name).toEqual("Matt Pocock");
 });
+
+// https://www.typescriptlang.org/docs/handbook/2/objects.html#optional-properties

@@ -32,3 +32,5 @@ export const getDefaultUserAndPosts = () => {
 const userAndPosts = getDefaultUserAndPosts();
 
 console.log(userAndPosts.posts[0]);
+
+// https://www.typescriptlang.org/docs/handbook/2/objects.html#intersection-types

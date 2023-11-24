@@ -18,3 +18,5 @@ it("Should work with the first and last name", () => {
 
   expect(name).toEqual("Matt Pocock");
 });
+
+// https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html#use-optional-parameters

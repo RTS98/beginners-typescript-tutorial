@@ -19,3 +19,5 @@ it("Should add the two numbers together", () => {
     }),
   ).toEqual(30);
 });
+
+// https://www.typescriptlang.org/docs/handbook/2/objects.html
